@@ -97,7 +97,9 @@ h1 {
 
 
 /* Insert CSS for right earring below this line*/
-
+#earring_right_image{
+  top: 125px; right: 45px; 
+}
 
 
 
